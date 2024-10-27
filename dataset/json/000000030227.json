@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.631641,
+                0.444444,
+                0.735156,
+                0.463889
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.593359,
+                0.769444,
+                0.813281,
+                0.247222
+            ],
+            "label": 13,
+            "name": "snow"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 1,
+            "predicate": 0
+        }
+    ],
+    "image": "000000030227.jpg"
+}

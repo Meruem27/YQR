@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.311198,
+                0.396296,
+                0.167187,
+                0.290741
+            ],
+            "label": 1,
+            "name": "RedPandas"
+        },
+        {
+            "bbox": [
+                0.630469,
+                0.550463,
+                0.460938,
+                0.558333
+            ],
+            "label": 13,
+            "name": "snow"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 1,
+            "predicate": 0
+        }
+    ],
+    "image": "000000016406.jpg"
+}

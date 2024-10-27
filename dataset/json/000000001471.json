@@ -1,0 +1,47 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.492578,
+                0.655556,
+                0.205469,
+                0.486111
+            ],
+            "label": 4,
+            "name": "ElaphodusCephalophus"
+        },
+        {
+            "bbox": [
+                0.511719,
+                0.811806,
+                0.976562,
+                0.2375
+            ],
+            "label": 11,
+            "name": "grass"
+        },
+        {
+            "bbox": [
+                0.798438,
+                0.440278,
+                0.403125,
+                0.338889
+            ],
+            "label": 11,
+            "name": "grass"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 1,
+            "predicate": 0
+        },
+        {
+            "subject_id": 0,
+            "object_id": 2,
+            "predicate": 7
+        }
+    ],
+    "image": "000000001471.jpg"
+}

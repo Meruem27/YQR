@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.237695,
+                0.647135,
+                0.474609,
+                0.597396
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.736914,
+                0.475521,
+                0.526172,
+                0.94375
+            ],
+            "label": 9,
+            "name": "stone"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 1,
+            "predicate": 1
+        }
+    ],
+    "image": "000000010074.jpg"
+}

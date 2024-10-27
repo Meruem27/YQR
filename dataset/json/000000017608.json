@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.460938,
+                0.605556,
+                0.075,
+                0.17037
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.417708,
+                0.319444,
+                0.095833,
+                0.614815
+            ],
+            "label": 8,
+            "name": "tree"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 1,
+            "predicate": 1
+        }
+    ],
+    "image": "000000017608.jpg"
+}

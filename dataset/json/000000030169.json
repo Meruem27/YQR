@@ -1,0 +1,47 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.660156,
+                0.609722,
+                0.169271,
+                0.676852
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.808073,
+                0.6625,
+                0.138021,
+                0.532407
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.702344,
+                0.86713,
+                0.341146,
+                0.265741
+            ],
+            "label": 12,
+            "name": "wasteland"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 2,
+            "predicate": 0
+        },
+        {
+            "subject_id": 1,
+            "object_id": 2,
+            "predicate": 0
+        }
+    ],
+    "image": "000000030169.jpg"
+}

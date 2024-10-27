@@ -1,0 +1,2 @@
+PseudoisNayaur_6 eat wasteland_12
+PseudoisNayaur_6 walk wasteland_12

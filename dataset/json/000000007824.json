@@ -1,0 +1,47 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.60625,
+                0.603667,
+                0.32,
+                0.346
+            ],
+            "label": 0,
+            "name": "Pandas"
+        },
+        {
+            "bbox": [
+                0.408625,
+                0.382,
+                0.16925,
+                0.746667
+            ],
+            "label": 8,
+            "name": "tree"
+        },
+        {
+            "bbox": [
+                0.173875,
+                0.6795,
+                0.28025,
+                0.410333
+            ],
+            "label": 11,
+            "name": "grass"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 1,
+            "predicate": 4
+        },
+        {
+            "subject_id": 0,
+            "object_id": 2,
+            "predicate": 6
+        }
+    ],
+    "image": "000000007824.jpg"
+}

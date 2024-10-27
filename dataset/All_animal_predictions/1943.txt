@@ -1,0 +1,3 @@
+ManchurianTiger_2 walk grass_11
+ManchurianTiger_2 walk grass_11
+ManchurianTiger_2 look wasteland_12

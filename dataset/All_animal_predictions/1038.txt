@@ -1,0 +1,3 @@
+PseudoisNayaur_6 walk stone_9
+PseudoisNayaur_6 walk stone_9
+PseudoisNayaur_6 eat grass_11

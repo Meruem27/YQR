@@ -1,0 +1,47 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.182812,
+                0.556944,
+                0.176563,
+                0.222222
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.371875,
+                0.508333,
+                0.1625,
+                0.238889
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.357031,
+                0.786111,
+                0.182812,
+                0.205556
+            ],
+            "label": 11,
+            "name": "grass"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 2,
+            "predicate": 0
+        },
+        {
+            "subject_id": 1,
+            "object_id": 2,
+            "predicate": 0
+        }
+    ],
+    "image": "000000009978.jpg"
+}

@@ -1,0 +1,47 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.151562,
+                0.57963,
+                0.146875,
+                0.296296
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.215625,
+                0.575,
+                0.095833,
+                0.262963
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.171875,
+                0.760185,
+                0.271875,
+                0.162963
+            ],
+            "label": 11,
+            "name": "grass"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 2,
+            "predicate": 1
+        },
+        {
+            "subject_id": 1,
+            "object_id": 2,
+            "predicate": 1
+        }
+    ],
+    "image": "000000017506.jpg"
+}

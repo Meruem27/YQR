@@ -1,0 +1,67 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.564125,
+                0.494167,
+                0.06775,
+                0.067667
+            ],
+            "label": 5,
+            "name": "porcupine"
+        },
+        {
+            "bbox": [
+                0.516125,
+                0.5425,
+                0.05725,
+                0.057
+            ],
+            "label": 5,
+            "name": "porcupine"
+        },
+        {
+            "bbox": [
+                0.1355,
+                0.3425,
+                0.2105,
+                0.676333
+            ],
+            "label": 8,
+            "name": "tree"
+        },
+        {
+            "bbox": [
+                0.628,
+                0.266,
+                0.744,
+                0.53
+            ],
+            "label": 7,
+            "name": "forest"
+        },
+        {
+            "bbox": [
+                0.50175,
+                0.839167,
+                0.9965,
+                0.250333
+            ],
+            "label": 12,
+            "name": "wasteland"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 4,
+            "predicate": 0
+        },
+        {
+            "subject_id": 1,
+            "object_id": 4,
+            "predicate": 0
+        }
+    ],
+    "image": "000000003299.jpg"
+}

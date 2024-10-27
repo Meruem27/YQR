@@ -1,0 +1,87 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.049609,
+                0.455556,
+                0.097656,
+                0.255556
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.187109,
+                0.551389,
+                0.130469,
+                0.169444
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.426172,
+                0.523611,
+                0.196094,
+                0.541667
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.627734,
+                0.759028,
+                0.149219,
+                0.251389
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.127344,
+                0.652083,
+                0.253125,
+                0.1625
+            ],
+            "label": 9,
+            "name": "stone"
+        },
+        {
+            "bbox": [
+                0.228125,
+                0.861806,
+                0.454688,
+                0.259722
+            ],
+            "label": 11,
+            "name": "grass"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 5,
+            "predicate": 3
+        },
+        {
+            "subject_id": 1,
+            "object_id": 5,
+            "predicate": 3
+        },
+        {
+            "subject_id": 2,
+            "object_id": 5,
+            "predicate": 0
+        },
+        {
+            "subject_id": 3,
+            "object_id": 5,
+            "predicate": 0
+        }
+    ],
+    "image": "000000009964.jpg"
+}

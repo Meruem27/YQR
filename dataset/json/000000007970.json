@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.248875,
+                0.8275,
+                0.38625,
+                0.285667
+            ],
+            "label": 0,
+            "name": "Pandas"
+        },
+        {
+            "bbox": [
+                0.453875,
+                0.389,
+                0.59875,
+                0.742
+            ],
+            "label": 8,
+            "name": "tree"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 1,
+            "predicate": 6
+        }
+    ],
+    "image": "000000007970.jpg"
+}

@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.729297,
+                0.656944,
+                0.541406,
+                0.661111
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.317578,
+                0.488889,
+                0.278906,
+                0.941667
+            ],
+            "label": 8,
+            "name": "tree"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 1,
+            "predicate": 6
+        }
+    ],
+    "image": "000000030268.jpg"
+}

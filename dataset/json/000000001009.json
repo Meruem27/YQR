@@ -1,0 +1,47 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.453646,
+                0.735648,
+                0.295833,
+                0.350926
+            ],
+            "label": 4,
+            "name": "ElaphodusCephalophus"
+        },
+        {
+            "bbox": [
+                0.528646,
+                0.356019,
+                0.476042,
+                0.347222
+            ],
+            "label": 13,
+            "name": "snow"
+        },
+        {
+            "bbox": [
+                0.549479,
+                0.847222,
+                0.427083,
+                0.209259
+            ],
+            "label": 12,
+            "name": "wasteland"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 2,
+            "predicate": 0
+        },
+        {
+            "subject_id": 0,
+            "object_id": 1,
+            "predicate": 7
+        }
+    ],
+    "image": "000000001009.jpg"
+}

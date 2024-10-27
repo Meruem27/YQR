@@ -1,0 +1,4 @@
+ManchurianTiger_2 lie wasteland_12
+ManchurianTiger_2 walk grass_11
+ManchurianTiger_2 look stone_9
+ManchurianTiger_2 sniff forest_7

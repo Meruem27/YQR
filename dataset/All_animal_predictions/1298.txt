@@ -1,0 +1,3 @@
+RedPandas_1 walk snow_13
+RedPandas_1 sniff wasteland_12
+RedPandas_1 drink river_10

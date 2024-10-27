@@ -1,0 +1,3 @@
+ManchurianTiger_2 walk stone_9
+ManchurianTiger_2 walk forest_7
+ManchurianTiger_2 sniff river_10

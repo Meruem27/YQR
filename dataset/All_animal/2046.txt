@@ -1,0 +1,9 @@
+ManchurianTiger_2 touch tree_8
+ManchurianTiger_2 touch tree_8
+ManchurianTiger_2 sit grass_11
+ManchurianTiger_2 walk grass_11
+ManchurianTiger_2 walk grass_11
+ManchurianTiger_2 walk grass_11
+ManchurianTiger_2 look tree_8
+ManchurianTiger_2 sniff tree_8
+ManchurianTiger_2 look tree_8

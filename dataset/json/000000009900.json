@@ -1,0 +1,102 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.032813,
+                0.425694,
+                0.064062,
+                0.179167
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.230859,
+                0.510417,
+                0.063281,
+                0.270833
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.286328,
+                0.545139,
+                0.046094,
+                0.206944
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.354297,
+                0.529861,
+                0.074219,
+                0.156944
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.395703,
+                0.564583,
+                0.103906,
+                0.134722
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.158984,
+                0.778472,
+                0.316406,
+                0.079167
+            ],
+            "label": 13,
+            "name": "snow"
+        },
+        {
+            "bbox": [
+                0.499609,
+                0.682639,
+                0.169531,
+                0.129167
+            ],
+            "label": 9,
+            "name": "stone"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 5,
+            "predicate": 0
+        },
+        {
+            "subject_id": 1,
+            "object_id": 5,
+            "predicate": 0
+        },
+        {
+            "subject_id": 2,
+            "object_id": 5,
+            "predicate": 0
+        },
+        {
+            "subject_id": 3,
+            "object_id": 5,
+            "predicate": 0
+        },
+        {
+            "subject_id": 4,
+            "object_id": 5,
+            "predicate": 0
+        }
+    ],
+    "image": "000000009900.jpg"
+}

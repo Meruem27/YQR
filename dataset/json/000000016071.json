@@ -1,0 +1,47 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.5375,
+                0.583796,
+                0.290625,
+                0.321296
+            ],
+            "label": 1,
+            "name": "RedPandas"
+        },
+        {
+            "bbox": [
+                0.252083,
+                0.465741,
+                0.211458,
+                0.814815
+            ],
+            "label": 11,
+            "name": "grass"
+        },
+        {
+            "bbox": [
+                0.726042,
+                0.690278,
+                0.310417,
+                0.471296
+            ],
+            "label": 10,
+            "name": "river"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 2,
+            "predicate": 2
+        },
+        {
+            "subject_id": 0,
+            "object_id": 1,
+            "predicate": 0
+        }
+    ],
+    "image": "000000016071.jpg"
+}

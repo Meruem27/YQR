@@ -1,0 +1,4 @@
+RhinopithecusRoxellana_3 run wasteland_12
+RhinopithecusRoxellana_3 sit RhinopithecusRoxellana_3
+RhinopithecusRoxellana_3 sit RhinopithecusRoxellana_3
+RhinopithecusRoxellana_3 sit RhinopithecusRoxellana_3

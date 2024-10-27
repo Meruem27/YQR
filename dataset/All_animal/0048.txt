@@ -1,0 +1,3 @@
+ElaphodusCephalophus_4 look forest_7
+ElaphodusCephalophus_4 walk grass_11
+ElaphodusCephalophus_4 eat grass_11

@@ -1,0 +1,97 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.114844,
+                0.579167,
+                0.228906,
+                0.717708
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.248828,
+                0.266146,
+                0.25,
+                0.410417
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.471289,
+                0.280208,
+                0.162109,
+                0.122917
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.821875,
+                0.227083,
+                0.35625,
+                0.453125
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.467773,
+                0.51276,
+                0.439453,
+                0.408854
+            ],
+            "label": 9,
+            "name": "stone"
+        },
+        {
+            "bbox": [
+                0.426367,
+                0.83099,
+                0.651953,
+                0.230729
+            ],
+            "label": 9,
+            "name": "stone"
+        },
+        {
+            "bbox": [
+                0.510352,
+                0.123698,
+                0.258984,
+                0.160938
+            ],
+            "label": 11,
+            "name": "grass"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 5,
+            "predicate": 0
+        },
+        {
+            "subject_id": 1,
+            "object_id": 4,
+            "predicate": 0
+        },
+        {
+            "subject_id": 3,
+            "object_id": 4,
+            "predicate": 0
+        },
+        {
+            "subject_id": 3,
+            "object_id": 6,
+            "predicate": 0
+        }
+    ],
+    "image": "000000009861.jpg"
+}

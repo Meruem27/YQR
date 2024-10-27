@@ -1,0 +1,42 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.430875,
+                0.5275,
+                0.18625,
+                0.173
+            ],
+            "label": 1,
+            "name": "RedPandas"
+        },
+        {
+            "bbox": [
+                0.5015,
+                0.259333,
+                0.35,
+                0.516
+            ],
+            "label": 8,
+            "name": "tree"
+        },
+        {
+            "bbox": [
+                0.36575,
+                0.7545,
+                0.601,
+                0.281
+            ],
+            "label": 12,
+            "name": "wasteland"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 1,
+            "predicate": 8
+        }
+    ],
+    "image": "000000016003.jpg"
+}

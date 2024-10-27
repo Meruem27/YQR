@@ -1,0 +1,3 @@
+RhinopithecusRoxellana_3 fight RhinopithecusRoxellana_3
+RhinopithecusRoxellana_3 touch tree_8
+RhinopithecusRoxellana_3 touch tree_8

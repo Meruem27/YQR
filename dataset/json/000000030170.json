@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.219792,
+                0.475463,
+                0.185417,
+                0.15463
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.708594,
+                0.514352,
+                0.243229,
+                0.237963
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.232813,
+                0.597222,
+                0.297917,
+                0.172222
+            ],
+            "label": 11,
+            "name": "grass"
+        },
+        {
+            "bbox": [
+                0.06849,
+                0.27963,
+                0.135937,
+                0.416667
+            ],
+            "label": 7,
+            "name": "forest"
+        },
+        {
+            "bbox": [
+                0.702865,
+                0.648148,
+                0.304688,
+                0.203704
+            ],
+            "label": 11,
+            "name": "grass"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 2,
+            "predicate": 1
+        },
+        {
+            "subject_id": 0,
+            "object_id": 3,
+            "predicate": 7
+        },
+        {
+            "subject_id": 1,
+            "object_id": 4,
+            "predicate": 0
+        }
+    ],
+    "image": "000000030170.jpg"
+}

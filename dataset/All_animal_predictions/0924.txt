@@ -1,0 +1,3 @@
+PseudoisNayaur_6 walk grass_11
+PseudoisNayaur_6 walk grass_11
+PseudoisNayaur_6 sit stone_9

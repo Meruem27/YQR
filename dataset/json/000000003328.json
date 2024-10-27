@@ -1,0 +1,42 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.344625,
+                0.640833,
+                0.25325,
+                0.337667
+            ],
+            "label": 5,
+            "name": "porcupine"
+        },
+        {
+            "bbox": [
+                0.490625,
+                0.150667,
+                0.98075,
+                0.300667
+            ],
+            "label": 7,
+            "name": "forest"
+        },
+        {
+            "bbox": [
+                0.732,
+                0.6415,
+                0.536,
+                0.648333
+            ],
+            "label": 12,
+            "name": "wasteland"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 0,
+            "predicate": 0
+        }
+    ],
+    "image": "000000003328.jpg"
+}

@@ -1,0 +1,4 @@
+ManchurianTiger_2 walk wasteland_12
+ManchurianTiger_2 look tree_8
+ManchurianTiger_2 lie wasteland_12
+ManchurianTiger_2 walk wasteland_12

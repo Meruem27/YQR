@@ -1,0 +1,4 @@
+RhinopithecusRoxellana_3 walk wasteland_12
+RhinopithecusRoxellana_3 walk forest_7
+RhinopithecusRoxellana_3 walk wasteland_12
+RhinopithecusRoxellana_3 walk forest_7

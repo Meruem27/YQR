@@ -1,0 +1,9 @@
+RhinopithecusRoxellana_3 sit grass_11
+RhinopithecusRoxellana_3 sit grass_11
+RhinopithecusRoxellana_3 touch RhinopithecusRoxellana_3
+RhinopithecusRoxellana_3 sit tree_8
+RhinopithecusRoxellana_3 sit tree_8
+RhinopithecusRoxellana_3 sit tree_8
+RhinopithecusRoxellana_3 sit tree_8
+RhinopithecusRoxellana_3 walk grass_11
+RhinopithecusRoxellana_3 touch tree_8

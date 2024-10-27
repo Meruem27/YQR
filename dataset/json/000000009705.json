@@ -1,0 +1,62 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.753125,
+                0.483333,
+                0.320312,
+                0.579167
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.547656,
+                0.438542,
+                0.065625,
+                0.077083
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.271875,
+                0.490625,
+                0.107813,
+                0.147917
+            ],
+            "label": 6,
+            "name": "PseudoisNayaur"
+        },
+        {
+            "bbox": [
+                0.296094,
+                0.777083,
+                0.590625,
+                0.329167
+            ],
+            "label": 9,
+            "name": "stone"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 3,
+            "predicate": 0
+        },
+        {
+            "subject_id": 1,
+            "object_id": 3,
+            "predicate": 0
+        },
+        {
+            "subject_id": 2,
+            "object_id": 3,
+            "predicate": 0
+        }
+    ],
+    "image": "000000009705.jpg"
+}

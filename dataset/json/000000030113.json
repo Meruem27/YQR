@@ -1,0 +1,87 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.438802,
+                0.814815,
+                0.349479,
+                0.257407
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.533594,
+                0.511574,
+                0.198437,
+                0.247222
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.719271,
+                0.559259,
+                0.316667,
+                0.251852
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.258333,
+                0.898148,
+                0.055208,
+                0.085185
+            ],
+            "label": 11,
+            "name": "grass"
+        },
+        {
+            "bbox": [
+                0.479687,
+                0.944444,
+                0.341667,
+                0.111111
+            ],
+            "label": 12,
+            "name": "wasteland"
+        },
+        {
+            "bbox": [
+                0.67526,
+                0.65463,
+                0.434896,
+                0.161111
+            ],
+            "label": 12,
+            "name": "wasteland"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 3,
+            "predicate": 6
+        },
+        {
+            "subject_id": 0,
+            "object_id": 4,
+            "predicate": 1
+        },
+        {
+            "subject_id": 1,
+            "object_id": 5,
+            "predicate": 0
+        },
+        {
+            "subject_id": 2,
+            "object_id": 5,
+            "predicate": 0
+        }
+    ],
+    "image": "000000030113.jpg"
+}

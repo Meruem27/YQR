@@ -1,0 +1,107 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.383984,
+                0.50599,
+                0.080469,
+                0.217188
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.502539,
+                0.547135,
+                0.080859,
+                0.245312
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.575391,
+                0.667448,
+                0.113281,
+                0.178646
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.732422,
+                0.703646,
+                0.117188,
+                0.245833
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.550391,
+                0.225781,
+                0.566406,
+                0.389062
+            ],
+            "label": 8,
+            "name": "tree"
+        },
+        {
+            "bbox": [
+                0.481055,
+                0.535156,
+                0.911328,
+                0.679688
+            ],
+            "label": 7,
+            "name": "forest"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 4,
+            "predicate": 8
+        },
+        {
+            "subject_id": 1,
+            "object_id": 4,
+            "predicate": 8
+        },
+        {
+            "subject_id": 2,
+            "object_id": 4,
+            "predicate": 7
+        },
+        {
+            "subject_id": 3,
+            "object_id": 4,
+            "predicate": 7
+        },
+        {
+            "subject_id": 0,
+            "object_id": 5,
+            "predicate": 8
+        },
+        {
+            "subject_id": 1,
+            "object_id": 5,
+            "predicate": 8
+        },
+        {
+            "subject_id": 2,
+            "object_id": 5,
+            "predicate": 7
+        },
+        {
+            "subject_id": 3,
+            "object_id": 5,
+            "predicate": 7
+        }
+    ],
+    "image": "000000016974.jpg"
+}

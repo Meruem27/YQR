@@ -1,0 +1,2 @@
+ElaphodusCephalophus_4 walk wasteland_12
+ElaphodusCephalophus_4 look snow_13

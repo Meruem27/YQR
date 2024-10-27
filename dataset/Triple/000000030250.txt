@@ -1,0 +1,2 @@
+ManchurianTiger_2 sniff snow_13
+ManchurianTiger_2 walk ManchurianTiger_2

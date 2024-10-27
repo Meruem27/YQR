@@ -1,0 +1,257 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.141927,
+                0.141204,
+                0.034896,
+                0.106481
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.1875,
+                0.122222,
+                0.051042,
+                0.166667
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.252604,
+                0.29537,
+                0.060417,
+                0.125926
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.297396,
+                0.202778,
+                0.03125,
+                0.122222
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.32526,
+                0.216667,
+                0.040104,
+                0.111111
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.401302,
+                0.216204,
+                0.036979,
+                0.080556
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.56224,
+                0.168056,
+                0.031771,
+                0.110185
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.585938,
+                0.162037,
+                0.034375,
+                0.090741
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.669271,
+                0.205556,
+                0.040625,
+                0.112963
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.34401,
+                0.448148,
+                0.052604,
+                0.218519
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.395313,
+                0.392593,
+                0.05,
+                0.161111
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.441146,
+                0.374074,
+                0.051042,
+                0.12037
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.565104,
+                0.318056,
+                0.055208,
+                0.130556
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.625781,
+                0.325,
+                0.048438,
+                0.109259
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.192448,
+                0.147685,
+                0.100521,
+                0.243519
+            ],
+            "label": 8,
+            "name": "tree"
+        },
+        {
+            "bbox": [
+                0.398177,
+                0.24537,
+                0.253646,
+                0.096296
+            ],
+            "label": 8,
+            "name": "tree"
+        },
+        {
+            "bbox": [
+                0.415365,
+                0.441204,
+                0.569271,
+                0.210185
+            ],
+            "label": 8,
+            "name": "tree"
+        },
+        {
+            "bbox": [
+                0.492969,
+                0.395833,
+                0.484896,
+                0.25463
+            ],
+            "label": 11,
+            "name": "grass"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 14,
+            "predicate": 8
+        },
+        {
+            "subject_id": 1,
+            "object_id": 14,
+            "predicate": 8
+        },
+        {
+            "subject_id": 2,
+            "object_id": 17,
+            "predicate": 1
+        },
+        {
+            "subject_id": 3,
+            "object_id": 15,
+            "predicate": 1
+        },
+        {
+            "subject_id": 4,
+            "object_id": 15,
+            "predicate": 1
+        },
+        {
+            "subject_id": 5,
+            "object_id": 15,
+            "predicate": 1
+        },
+        {
+            "subject_id": 6,
+            "object_id": 17,
+            "predicate": 0
+        },
+        {
+            "subject_id": 7,
+            "object_id": 17,
+            "predicate": 0
+        },
+        {
+            "subject_id": 8,
+            "object_id": 17,
+            "predicate": 7
+        },
+        {
+            "subject_id": 9,
+            "object_id": 16,
+            "predicate": 1
+        },
+        {
+            "subject_id": 10,
+            "object_id": 16,
+            "predicate": 1
+        },
+        {
+            "subject_id": 11,
+            "object_id": 16,
+            "predicate": 1
+        },
+        {
+            "subject_id": 12,
+            "object_id": 17,
+            "predicate": 1
+        },
+        {
+            "subject_id": 13,
+            "object_id": 17,
+            "predicate": 1
+        }
+    ],
+    "image": "000000017101.jpg"
+}

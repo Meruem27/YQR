@@ -1,0 +1,97 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.129948,
+                0.410185,
+                0.160938,
+                0.203704
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.441146,
+                0.537963,
+                0.247917,
+                0.259259
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.445833,
+                0.290741,
+                0.172917,
+                0.231481
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.477344,
+                0.212037,
+                0.159896,
+                0.140741
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.15651,
+                0.580556,
+                0.244271,
+                0.261111
+            ],
+            "label": 11,
+            "name": "grass"
+        },
+        {
+            "bbox": [
+                0.464323,
+                0.74537,
+                0.327604,
+                0.303704
+            ],
+            "label": 11,
+            "name": "grass"
+        },
+        {
+            "bbox": [
+                0.478906,
+                0.368981,
+                0.302604,
+                0.136111
+            ],
+            "label": 11,
+            "name": "grass"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 4,
+            "predicate": 0
+        },
+        {
+            "subject_id": 1,
+            "object_id": 5,
+            "predicate": 0
+        },
+        {
+            "subject_id": 2,
+            "object_id": 6,
+            "predicate": 6
+        },
+        {
+            "subject_id": 3,
+            "object_id": 6,
+            "predicate": 0
+        }
+    ],
+    "image": "000000030084.jpg"
+}

@@ -1,0 +1,2 @@
+RhinopithecusRoxellana_3 sit stone_9
+RhinopithecusRoxellana_3 touch tree_8

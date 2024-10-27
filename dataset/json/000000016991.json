@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.05625,
+                0.608854,
+                0.049219,
+                0.116667
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.019531,
+                0.559375,
+                0.028906,
+                0.088542
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.299609,
+                0.597656,
+                0.114062,
+                0.085938
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.961523,
+                0.864323,
+                0.072266,
+                0.150521
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.965039,
+                0.789583,
+                0.069922,
+                0.171875
+            ],
+            "label": 3,
+            "name": "RhinopithecusRoxellana"
+        },
+        {
+            "bbox": [
+                0.497852,
+                0.765885,
+                0.935547,
+                0.332813
+            ],
+            "label": 11,
+            "name": "grass"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 5,
+            "predicate": 1
+        },
+        {
+            "subject_id": 1,
+            "object_id": 5,
+            "predicate": 1
+        },
+        {
+            "subject_id": 3,
+            "object_id": 5,
+            "predicate": 1
+        },
+        {
+            "subject_id": 4,
+            "object_id": 5,
+            "predicate": 1
+        },
+        {
+            "subject_id": 2,
+            "object_id": 5,
+            "predicate": 0
+        }
+    ],
+    "image": "000000016991.jpg"
+}

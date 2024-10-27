@@ -1,0 +1,62 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.495312,
+                0.472685,
+                0.1125,
+                0.482407
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.620833,
+                0.473148,
+                0.171875,
+                0.268519
+            ],
+            "label": 9,
+            "name": "stone"
+        },
+        {
+            "bbox": [
+                0.411458,
+                0.470833,
+                0.114583,
+                0.365741
+            ],
+            "label": 7,
+            "name": "forest"
+        },
+        {
+            "bbox": [
+                0.44401,
+                0.74213,
+                0.202604,
+                0.202778
+            ],
+            "label": 10,
+            "name": "river"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 1,
+            "predicate": 0
+        },
+        {
+            "subject_id": 0,
+            "object_id": 2,
+            "predicate": 0
+        },
+        {
+            "subject_id": 0,
+            "object_id": 3,
+            "predicate": 6
+        }
+    ],
+    "image": "000000030076.jpg"
+}

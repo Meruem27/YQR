@@ -1,0 +1,57 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.362891,
+                0.61875,
+                0.197656,
+                0.176389
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.253125,
+                0.752778,
+                0.115625,
+                0.191667
+            ],
+            "label": 13,
+            "name": "snow"
+        },
+        {
+            "bbox": [
+                0.833203,
+                0.570139,
+                0.222656,
+                0.173611
+            ],
+            "label": 2,
+            "name": "ManchurianTiger"
+        },
+        {
+            "bbox": [
+                0.967969,
+                0.635417,
+                0.060937,
+                0.231944
+            ],
+            "label": 13,
+            "name": "snow"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 1,
+            "predicate": 6
+        },
+        {
+            "subject_id": 2,
+            "object_id": 3,
+            "predicate": 6
+        }
+    ],
+    "image": "000000030247.jpg"
+}

@@ -1,0 +1,67 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.5705,
+                0.390833,
+                0.1305,
+                0.085
+            ],
+            "label": 5,
+            "name": "porcupine"
+        },
+        {
+            "bbox": [
+                0.208,
+                0.515,
+                0.212,
+                0.178667
+            ],
+            "label": 5,
+            "name": "porcupine"
+        },
+        {
+            "bbox": [
+                0.1995,
+                0.193667,
+                0.176,
+                0.352667
+            ],
+            "label": 8,
+            "name": "tree"
+        },
+        {
+            "bbox": [
+                0.637875,
+                0.154167,
+                0.66375,
+                0.304333
+            ],
+            "label": 7,
+            "name": "forest"
+        },
+        {
+            "bbox": [
+                0.6035,
+                0.711,
+                0.4775,
+                0.505333
+            ],
+            "label": 11,
+            "name": "grass"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 1,
+            "object_id": 4,
+            "predicate": 5
+        },
+        {
+            "subject_id": 0,
+            "object_id": 4,
+            "predicate": 5
+        }
+    ],
+    "image": "000000003817.jpg"
+}

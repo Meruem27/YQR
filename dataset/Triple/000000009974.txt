@@ -1,0 +1,4 @@
+PseudoisNayaur_6 walk PseudoisNayaur_6
+PseudoisNayaur_6 eat PseudoisNayaur_6
+PseudoisNayaur_6 walk PseudoisNayaur_6
+PseudoisNayaur_6 sit grass_11

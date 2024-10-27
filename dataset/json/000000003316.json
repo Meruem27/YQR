@@ -1,0 +1,97 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.20075,
+                0.490333,
+                0.238,
+                0.219333
+            ],
+            "label": 5,
+            "name": "porcupine"
+        },
+        {
+            "bbox": [
+                0.395,
+                0.462833,
+                0.125,
+                0.162333
+            ],
+            "label": 5,
+            "name": "porcupine"
+        },
+        {
+            "bbox": [
+                0.544625,
+                0.395667,
+                0.12575,
+                0.11
+            ],
+            "label": 5,
+            "name": "porcupine"
+        },
+        {
+            "bbox": [
+                0.668875,
+                0.375167,
+                0.07275,
+                0.099
+            ],
+            "label": 5,
+            "name": "porcupine"
+        },
+        {
+            "bbox": [
+                0.182625,
+                0.185667,
+                0.23075,
+                0.370667
+            ],
+            "label": 8,
+            "name": "tree"
+        },
+        {
+            "bbox": [
+                0.517875,
+                0.177,
+                0.96425,
+                0.353333
+            ],
+            "label": 7,
+            "name": "forest"
+        },
+        {
+            "bbox": [
+                0.495,
+                0.767167,
+                0.9895,
+                0.399
+            ],
+            "label": 12,
+            "name": "wasteland"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 6,
+            "predicate": 0
+        },
+        {
+            "subject_id": 1,
+            "object_id": 6,
+            "predicate": 0
+        },
+        {
+            "subject_id": 2,
+            "object_id": 6,
+            "predicate": 0
+        },
+        {
+            "subject_id": 3,
+            "object_id": 6,
+            "predicate": 0
+        }
+    ],
+    "image": "000000003316.jpg"
+}

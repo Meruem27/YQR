@@ -1,0 +1,62 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.52125,
+                0.671667,
+                0.3,
+                0.166
+            ],
+            "label": 1,
+            "name": "RedPandas"
+        },
+        {
+            "bbox": [
+                0.1465,
+                0.498667,
+                0.128,
+                0.15
+            ],
+            "label": 1,
+            "name": "RedPandas"
+        },
+        {
+            "bbox": [
+                0.370875,
+                0.412167,
+                0.35425,
+                0.231
+            ],
+            "label": 13,
+            "name": "snow"
+        },
+        {
+            "bbox": [
+                0.8235,
+                0.499833,
+                0.3285,
+                0.919
+            ],
+            "label": 8,
+            "name": "tree"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 2,
+            "predicate": 0
+        },
+        {
+            "subject_id": 0,
+            "object_id": 2,
+            "predicate": 6
+        },
+        {
+            "subject_id": 1,
+            "object_id": 2,
+            "predicate": 2
+        }
+    ],
+    "image": "000000016230.jpg"
+}

@@ -1,0 +1,97 @@
+{
+    "objects": [
+        {
+            "bbox": [
+                0.101875,
+                0.6075,
+                0.20325,
+                0.305667
+            ],
+            "label": 5,
+            "name": "porcupine"
+        },
+        {
+            "bbox": [
+                0.302625,
+                0.572,
+                0.13225,
+                0.254
+            ],
+            "label": 5,
+            "name": "porcupine"
+        },
+        {
+            "bbox": [
+                0.4225,
+                0.461333,
+                0.083,
+                0.161333
+            ],
+            "label": 5,
+            "name": "porcupine"
+        },
+        {
+            "bbox": [
+                0.541,
+                0.3855,
+                0.1265,
+                0.149667
+            ],
+            "label": 5,
+            "name": "porcupine"
+        },
+        {
+            "bbox": [
+                0.683625,
+                0.7575,
+                0.63275,
+                0.435667
+            ],
+            "label": 12,
+            "name": "wasteland"
+        },
+        {
+            "bbox": [
+                0.19225,
+                0.186667,
+                0.1935,
+                0.372667
+            ],
+            "label": 8,
+            "name": "tree"
+        },
+        {
+            "bbox": [
+                0.53525,
+                0.167333,
+                0.9295,
+                0.334
+            ],
+            "label": 7,
+            "name": "forest"
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 0,
+            "object_id": 4,
+            "predicate": 0
+        },
+        {
+            "subject_id": 1,
+            "object_id": 4,
+            "predicate": 0
+        },
+        {
+            "subject_id": 2,
+            "object_id": 4,
+            "predicate": 0
+        },
+        {
+            "subject_id": 3,
+            "object_id": 3,
+            "predicate": 0
+        }
+    ],
+    "image": "000000003317.jpg"
+}

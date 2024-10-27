@@ -1,0 +1,8 @@
+RhinopithecusRoxellana_3 touch tree_8
+RhinopithecusRoxellana_3 touch tree_8
+RhinopithecusRoxellana_3 look tree_8
+RhinopithecusRoxellana_3 look tree_8
+RhinopithecusRoxellana_3 touch forest_7
+RhinopithecusRoxellana_3 touch forest_7
+RhinopithecusRoxellana_3 look forest_7
+RhinopithecusRoxellana_3 look forest_7
